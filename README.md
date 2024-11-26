@@ -18,9 +18,9 @@ E-news Express plans to increase subscriptions by analyzing user behavior on the
 
 ### Objectives
 
-The company's design team developed a new landing page with updated structure and more relevant content compared to the old one. To evaluate its effectiveness, we will study the sample of 100 randomly selected users split into two equal groups. One group viewed the existing landing page while the other viewed the new landing page, and data on user interactions was collected for analysis. The significance level was determined at 5%.
+The company's design team developed a new landing page with updated structure and more relevant content compared to the old one. To evaluate its effectiveness, I will study the sample of 100 randomly selected users split into two equal groups. One group viewed the existing landing page while the other viewed the new landing page, and data on user interactions was collected for analysis. The significance level was determined at 5%.
 
-We need to answer the following questions:
+I need to answer the following questions:
 * Do the users spend more time on the new landing page than on the existing landing page?
 * Is the conversion rate (the proportion of users who visit the landing page and get converted) for the new page greater than the conversion rate for the old page?
 * Does the converted status depend on the preferred language?
@@ -29,7 +29,7 @@ We need to answer the following questions:
 
 ### Conclusion and Business Recommendations
 
-#### Based on our analysis of the dataset and testing various hypotheses, we found the following:
+#### Based on our analysis of the dataset and testing various hypotheses, I found the following:
 
 1. Users spend more time on the new landing page compared to the old one.
 2. The new landing page converts more users than the old one.
