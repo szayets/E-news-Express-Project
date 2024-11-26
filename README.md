@@ -1,6 +1,8 @@
 ### E-news-Express-Project
 This project evaluates news website new landing page using A/B testing, analyzing conversion rates, time spent, and language preferences.
 
+#### The libraries with the specified version.
+!pip install numpy==1.25.2 pandas==1.5.3 matplotlib==3.7.1 seaborn==0.13.1 scipy==1.11.4 -q --user
 
 This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
 
